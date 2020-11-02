@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
   "description": "Abstract Canvas schema",
-  "id": "http://api.dataplatform.ibm.com/schemas/common-canvas/diagram/canvas-v1-schema.json",
+  "id": "https://nielspardon.github.io/pipeline-schemas/common-canvas/diagram/canvas-v1-schema.json",
   "properties": {
     "id": {
       "description": "Document identifier",
